@@ -2,7 +2,7 @@
 This app counts or increments the number on the screen by one digit when the '+1'button is hit.
 
 
-Android fundamentals used are Textviews and Buttons.
+(Android fundamentals used are Textviews and Buttons.)
 
 ## Screenshots
 
